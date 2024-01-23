@@ -1,9 +1,6 @@
 # WooCommerce Admin Filter By SKU
 
-![Packagist](https://github.com/mehrshaddarzi/woocommerce-admin-product-sku-filter)
-
 Add New Product SKU filter in Woocommerce product list table
-
 
 ![WooCommerce Admin Filter By SKU](https://raw.githubusercontent.com/mehrshaddarzi/woocommerce-admin-product-sku-filter/master/screenshot.jpg)
 
