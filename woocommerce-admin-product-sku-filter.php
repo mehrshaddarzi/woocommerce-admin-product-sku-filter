@@ -41,7 +41,7 @@ class WooCommerce_Admin_Product_SKU_Filter
             return $query;
         }
 
-        // Setup Category ID
+        // Check Product SKU Input
         if (isset($_GET['product_sku']) and !empty($_GET['product_sku'])) {
 
             $search_input = sanitize_text_field($_GET['product_sku']);
