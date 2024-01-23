@@ -1,4 +1,4 @@
-# WooCommerce Admin Filter By SKU
+# WooCommerce Admin Product Filter By SKU
 
 Add New Product SKU filter in Woocommerce product list table
 
